@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="50dp" >
+
+    <Button
+        android:id="@+id/API_DEMO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="API_DEMO" />
+
+    <Button
+        android:id="@+id/GridView_DEMO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GridView_DEMO" />
+
+    <Button
+        android:id="@+id/CubeView_DEMO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CubeView" />
+
+    <Button
+        android:id="@+id/FlipView_DEMO"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="FlipView" />
+
+</LinearLayout>
